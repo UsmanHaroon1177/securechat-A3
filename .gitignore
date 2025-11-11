@@ -1,0 +1,35 @@
+# Secrets and certificates
+certs/*.key
+certs/*.pem
+*.key
+*.pem
+
+# Environment files
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Logs and transcripts
+logs/*.log
+transcripts/*.txt
+transcripts/*.json
+
+# Captures
+captures/*.pcap
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test certificates
+test_certs/
