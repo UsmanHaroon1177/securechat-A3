@@ -99,7 +99,7 @@ def test_crypto():
     print("Test 5: SHA-256 Hashing")
     print("-" * 50)
     data = "Test data for hashing"
-    hash_hex = crypto.sha256_hash_hex(data)
+    hash_hex = crypto.sha256_hash_hex(data.encode('utf-8'))
     print(f"Data: {data}")
     print(f"SHA-256 hash: {hash_hex}\n")
 
