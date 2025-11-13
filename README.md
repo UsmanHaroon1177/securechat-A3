@@ -11,7 +11,7 @@ A console-based secure chat system implementing end-to-end cryptographic protoco
 - **Assignment**: #2
 
 ## 🔗 Repository
-- **GitHub**: https://github.com/UsmanHaroon1177/securechat-assignment
+- **GitHub**: https://github.com/UsmanHaroon1177/securechat-A3
 - **Branch**: main
 
 #
